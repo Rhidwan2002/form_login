@@ -11,7 +11,7 @@ section {
   min-height: 100vh;
   width: 100%;
 
-  background: url("form_login/img/R.jpg");
+  background: url("./img/R.jpg");
   background-position: center;
   background-size: cover;
 }
